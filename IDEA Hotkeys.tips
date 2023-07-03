@@ -3,9 +3,9 @@ ALT   - J    : Select next occurence
 CTRL  - Y    : Delete line
 CTRL  - D    : Dublicate line
 SHIFT - F6   : Refactor / Rename 
-CTRL	- TAB  : Window switcher
-CTRL	- B    : Go to reference
-CTRL	- P    : Show function parameters
+CTRL  - TAB  : Window switcher
+CTRL  - B    : Go to reference
+CTRL  - P    : Show function parameters
 ALT   - F7   : Find usage
 
 
