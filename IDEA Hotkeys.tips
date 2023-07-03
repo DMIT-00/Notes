@@ -1,0 +1,21 @@
+
+  CTRL  - W    : Extend text selection
+  ALT   - J    : Select next occurence
+  CTRL  - Y    : Delete line
+  CTRL  - D    : Dublicate line
+  SHIFT - F6   : Refactor / Rename 
+  CTRL	- TAB  : Window switcher
+  CTRL	- B    : Go to reference
+  CTRL	- P    : Show function parameters
+  ALT   - F7   : Find usage
+
+
+
+  ALT  - SHIFT - UP : Move line of code
+  CTRL - ALT   - O  : Optimize imports
+  CTRL - ALT   - L  : Reformat code
+  CTRL - ALT   - V  : Extract to variable
+  CTRL - SHIFT - T  : Add test
+  CTRL - ALT   - V  : Introduce variable
+  CTRL - SHIFT - F  : Find in files
+  CTRL - SHIFT - V  : Paste from history
