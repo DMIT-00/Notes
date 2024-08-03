@@ -1,20 +1,32 @@
-CTRL  - W    : Extend text selection
-ALT   - J    : Select next occurence
-CTRL  - Y    : Delete line
-CTRL  - D    : Dublicate line
-SHIFT - F6   : Refactor / Rename 
-CTRL  - TAB  : Window switcher
-CTRL  - B    : Go to reference
-CTRL  - P    : Show function parameters
-ALT   - F7   : Find usage
+CTRL  - `     : Switch menu
+CTRL  - E     : Recent files menu
 
+F11           : Add bookmark
+CTRL  - F11   : Create mnemonic bookmark
+SHIFT - F11   : Jump to mnemonic bookmark
 
-ALT  - SHIFT - UP : Move line of code
-CTRL - ALT   - O  : Optimize imports
-CTRL - ALT   - L  : Reformat code
-CTRL - ALT   - V  : Introduce variable
-CTRL - ALT   - V  : Extract to Variable
-CTRL - ALT   - M  : Extract to Method
-CTRL - SHIFT - T  : Add test
-CTRL - SHIFT - F  : Find in Files
-CTRL - SHIFT - V  : Paste from history
+CTRL  - SPACE : Suggest variable
+
+CTRL  - W     : Extend text selection
+ALT   - J     : Select next occurrence
+CTRL  - Y     : Delete line
+CTRL  - D     : Duplicate line
+SHIFT - F6    : Refactor / Rename
+CTRL  - TAB   : Window switcher
+CTRL  - B     : Go to reference
+CTRL  - P     : Show function parameters
+ALT   - F7    : Find usage
+
+CTRL  - F6    : Refactor method parameters
+
+ALT  - SHIFT - UP  : Move line of code
+CTRL - ALT   - O   : Optimize imports
+CTRL - ALT   - L   : Reformat code
+CTRL - ALT   - V   : Introduce variable
+CTRL - ALT   - V   : Extract to Variable
+CTRL - ALT   - M   : Extract to Method
+CTRL - SHIFT - T   : Add test
+CTRL - SHIFT - F   : Find in Files
+CTRL - SHIFT - V   : Paste from history
+
+CTRL - ALT   - P   : Extract to method parameter
